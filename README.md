@@ -4,4 +4,6 @@ Final project based on the dataset related to Canadian Cheese. This dataset has 
 
 Find the dataset from the link https://open.canada.ca/data/en/dataset/3c16cd48-3ac3-453f-8260-6f745181c83b
 
+Also, the dataset can be downloaded from the data folder
+
 This project consists of two files, such as html and python script 
